@@ -90,7 +90,7 @@
             <br>
             
             <div class="mb-3">
-                <select name="soporte" id="soporte" required>
+                <select class="select-css" name="soporte" id="soporte" required>
                     <option value="Eber" title="Eber">Eber</option>
                     <option value="Tomas" title="Tomas">Tomas</option>
                     <option value="Gabriel" title="Gabriel">Gabriel</option>

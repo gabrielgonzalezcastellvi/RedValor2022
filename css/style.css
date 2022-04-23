@@ -5,3 +5,11 @@
     font-weight: bold;
 }
 
+input{
+    border-color: dodgerblue;
+}
+
+.select-css{
+    border-color: dodgerblue;
+}
+
